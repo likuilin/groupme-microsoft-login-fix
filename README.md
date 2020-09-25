@@ -1,5 +1,7 @@
 # Groupme Microsoft login fix
 
+## Update: Groupme fixed it! Woo~
+
 This is a fix for the Groupme web client's Microsoft OAUTH login bug. 20-second video: https://youtube.com/watch?v=82XCpxKEhls
 
 Currently, if you use https://web.groupme.com/, trying to log in using a Microsoft account leaves you on a white screen after entering your Microsoft account details. 
